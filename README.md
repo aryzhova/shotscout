@@ -1,3 +1,4 @@
+<img width="591" height="1280" alt="photo_2026-09-20_19-55-44" src="https://github.com/user-attachments/assets/90bf1e78-c285-4ba3-bafc-21cf98dbc89f" />
 # 📷 ShotScout
 
 A Telegram bot that helps photographers find reference images for their shoots. Send a photo or describe the shot you have in mind, and ShotScout analyses the look (pose, composition, lighting, palette, setting, mood), then replies with similar reference images and ready-made Pinterest searches.
