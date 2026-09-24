@@ -90,14 +90,6 @@ Pinterest's public API does not offer pin search to regular apps (the search end
 - **Privacy:** on Google's free tier, inputs may be used to improve Google's models. Consider this before sending client photos, or use a paid tier or a local model.
 - **Similarity is semantic:** results are matched by generated keywords, not by pixel-level visual similarity.
 
-## Roadmap
-
-- [ ] Visual similarity search with CLIP embeddings
-- [ ] "More like this" / refine buttons (e.g. "darker, more moody")
-- [ ] Additional image sources (Unsplash, Flickr)
-- [ ] Per-user rate limiting and result caching
-- [ ] Dockerfile for easy deployment
-- [ ] Local vision model option (Ollama) for fully offline, private use
 
 ## Credits
 
